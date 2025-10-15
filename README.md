@@ -72,12 +72,11 @@ Source code, design files, and assets are **not publicly shared** due to ownersh
 All rights belong to **Αφοί Κεμανετζίδης**.
 
 ---
+## 🧑‍💻 Author
 
-## 👨‍💻 Developer
+Created by **Panagiotis Mokos**  
+GitHub: [@MwkosP](https://github.com/MwkosP)
 
-**Developed by:** [Your Name or Freelance Brand]  
-📧 Contact: [your.email@example.com]  
-🌐 Portfolio: [your-portfolio-link.com]
 
 ---
 

@@ -17,10 +17,12 @@ The preview below is for presentation purposes only.
 
 ---
 
-## 🎥 Video Preview
 
-[🎬 Click here to watch the demo video](https://your-video-link-here.com)  
-*(If hosted locally, press “View raw” to download and view the demo.)*
+🎥 **Video Preview:**  
+![Demo](./demo.gif)
+
+**Watch entire Preview here(press link & view raw, will shortly download video):**
+[🎥 Watch demo video](./demo.mp4)
 
 ---
 
